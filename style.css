@@ -1,0 +1,100 @@
+﻿html {
+  
+    height: 100%;
+    overflow-x: hidden;
+   
+}
+
+#intro {
+    
+    text-align: center;
+    padding: 30px;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    background-color: #2D0B10;
+    color: #ffffff;
+}
+
+body {
+    height: 100%;
+    margin: 0px;
+}
+
+
+
+#haunted-house, #door {
+    height: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#haunted-house {
+    
+    background-image: url('hauntedhouse.jpeg');
+}
+
+#door {
+   
+    background-image: url('door zoom.jpeg');
+}
+
+#window {
+    background-image: url('window zoom.jpeg');
+}
+
+
+#croc-intro {
+    position: relative;
+    width: 150px;
+    text-align: center;
+    top: 350px;
+    left: 600px;
+}
+
+.croc {
+    width: 400px;
+    margin-top: 25px;
+}
+
+.hi-croc {
+    background-color: #2D0B10;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+}
+
+#croc-door {
+    padding-top: 100px;
+    padding-left:100px;
+}
+
+#croc-window {
+    padding-top:100px;
+    padding-left: 70%;
+}
+
+#croc-final1 {
+    padding-top: 50px;
+    padding-left:50px;
+}
+
+#croc-final2 {
+    padding-left:20%;
+}
+
+#croc-final3 {
+    padding-top:50px;
+    padding-left:45%;
+}
+
+.block-text {
+    padding: 100px;
+    background-color: #2D0B10;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+}
+
+
+
